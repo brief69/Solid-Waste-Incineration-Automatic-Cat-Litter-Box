@@ -1,1 +1,1 @@
-# Solid-Waste-Incineration-Automatic-Cat-Litter-Box
+# Automatic Cat Litter Box Project
